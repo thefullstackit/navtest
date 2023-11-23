@@ -35,7 +35,7 @@ public class CustomCapitalMrktServiceGetDetailsImpl extends AbstractLocalInquiry
 	@Override
 	public FEBAValItem[] prepareValidationsList(FEBATransactionContext arg0, IFEBAValueObject arg1,
 			IFEBAValueObject arg2) throws BusinessException, BusinessConfirmation, CriticalException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub nav3
 		return null;
 	}
 
